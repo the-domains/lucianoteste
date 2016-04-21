@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T21:37:23.359Z'
-dateModified: '2016-04-21T21:32:12.175Z'
+datePublished: '2016-04-21T22:19:23.753Z'
+dateModified: '2016-04-21T22:18:52.582Z'
 title: Quer Aprender o Passo-a-Passo Definitivo Para Ganhar Dinheiro Na Internet?
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-21-quer-aprender-o-passo-a-passo-definitivo-para-ganhar-dinheir.md
 published: true
 authors: []

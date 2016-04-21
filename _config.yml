@@ -1,0 +1,28 @@
+name: LucianoTeste
+favicon: null
+layout_spectrum: 0.12780239363200963
+typography_spectrum: 0.2758766980841756
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8567264706362039
+  lightness: 0.7369617130607367
+  saturation: 0.5115453666076064
+  rhythmicContrast: 0.19042885210365057
+purpose: []
